@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -R -name *.js -type f -delete
+find ~/holbertonschool-shell/io_redirections_and_filters/ -type f -name *.js -delete
