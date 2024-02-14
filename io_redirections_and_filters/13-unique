@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -u list_1 > list_1_unique | sort --ignore_case
+uniq -u list_1 >> list_1_unique
