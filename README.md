@@ -1,1 +1,3 @@
-Shell basics
+basics
+io_redirections_and_filters
+permissions
