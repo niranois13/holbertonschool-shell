@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a *.gif | find -type f | tr ".gif" "\n" |
+ls -a *.gif | find -type f
